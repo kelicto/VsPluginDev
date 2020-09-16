@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.VsPluginDev.App", "KeLi.VsPluginDev.App\KeLi.VsPluginDev.App.csproj", "{865423D2-5DFB-4B60-83B6-88A75E30D0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865423D2-5DFB-4B60-83B6-88A75E30D0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865423D2-5DFB-4B60-83B6-88A75E30D0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865423D2-5DFB-4B60-83B6-88A75E30D0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865423D2-5DFB-4B60-83B6-88A75E30D0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B9E3B2-B601-4236-969C-0368619036A6}
+	EndGlobalSection
+EndGlobal
